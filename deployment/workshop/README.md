@@ -155,7 +155,7 @@ We have each student install Keycloak as part of a security lab but you need to 
 * Wait until everything finishes and the operator is running
 
 ### Deploy OpenShift Homeroom
-This workshop uses OpenShift Homeroom to host student dashboards, which include labguides. To deploy Homeroom, refer to [these instructions](https://github.com/RedHatGov/service-mesh-workshop).
+This workshop uses OpenShift Homeroom to host student dashboards, which include labguides. To deploy Homeroom, refer to [these instructions](https://github.com/RedHatGov/service-mesh-workshop-dashboard).
 
 
 [1]: https://www.openshift.com/learn/topics/operators
